@@ -1,0 +1,16 @@
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+
+        map={}
+
+        for i,n in enumerate(nums):  #numerate gives both the index and the value at the same time
+            difference = target - n
+            if difference in map:
+                return [map[difference],i]
+            map[n]=i
+
