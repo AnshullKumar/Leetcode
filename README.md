@@ -1,2 +1,2 @@
-#Learning DSA 
-Following a Roadmap from Neetcode.io
+# Learning DSA 
+And Following a Roadmap from Neetcode.io
