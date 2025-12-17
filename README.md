@@ -21,7 +21,6 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 - Binary Search
 - Trees & Graphs
 - Dynamic Programming
-- Backtracking
 ---
 
 ## 🧩 Problem Sources
